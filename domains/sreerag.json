@@ -1,10 +1,10 @@
 
 {
   "owner": {
-    "username": "sreeragpv2002",
-    "email": "sreeragpv500@gmail.com"
+    "username": "sreeragpv2002"
   },
   "records": {
-    "A": ["216.198.79.1"]
+    "A": ["216.198.79.1"],
+    "TXT": "vc-domain-verify=sreerag.is-a.dev,75dcdc050c333851d1640"
   }
 }
