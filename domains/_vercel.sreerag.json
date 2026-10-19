@@ -1,10 +1,9 @@
 
 {
   "owner": {
-    "username": "sreeragpv2002",
-    "email": "sreeragpv500@gmail.com"
+    "username": "sreeragpv2002"
   },
   "records": {
-    "TXT": "vc-domain-verify=sreerag.is-a.dev,75cdcd05c333851d1640"
+    "TXT": "vc-domain-verify=www.sreerag.is-a.dev,5c3b43cd1e3564bd6f6f"
   }
 }
